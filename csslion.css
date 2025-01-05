@@ -1,0 +1,49 @@
+.lion{
+    text-align: center;    
+    background: rgb(58, 57, 57);
+    color: white
+}
+table { 
+    border: 1px black solid; 
+    width: 40%; 
+    border-collapse: collapse;
+}
+.tab { 
+    border: 1px black solid; 
+    width: 25%;
+}
+.bas {
+    border: 1px black solid;
+}
+.lien{
+    color: orange;
+    font-family: verdana;
+    font-size: 200%;
+}
+.sous{
+    font-size: 150%;
+    color: yellow;
+    list-style-type: none
+}
+.sous2{
+    font-family: arial;
+    font-size: 50%;
+    text-align: center;
+    list-style-type: none
+}
+.sous{
+    font-family: arial;
+    font-size: 75%;
+    text-align: center;
+    list-style-type: none
+}
+.texte{
+    font-size: 100%;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+.sous3{
+    font-family: arial;
+    font-size: 75%;
+    text-align: center;
+    list-style-type: none
+}
